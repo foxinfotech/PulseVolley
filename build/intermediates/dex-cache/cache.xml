@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\pulseVolley\app\build\intermediates\exploded-aar\pulseVolley\volley\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4645badd3867862b3f98f3f6271bf87da78ee390">
+        <dex dex="F:\pulseVolley\app\build\intermediates\pre-dexed\debug\classes-913373425e284143e50de3ee219a35080fb3626e.jar" />
+    </item>
+    <item
+        jar="F:\pulseVolley\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="F:\pulseVolley\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-4699eebb75ce57809ca3ddaf0bfd6d53c4fa68fd.jar" />
+    </item>
+    <item
+        jar="F:\pulseVolley\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="F:\pulseVolley\app\build\intermediates\pre-dexed\debug\classes-820e753e863a3c8866fdebb3dbf61c450b700531.jar" />
+    </item>
+    <item
+        jar="C:\Users\Surender\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\pulseVolley\app\build\intermediates\pre-dexed\debug\gson-2.3.1-8931bf99f43ec8832b9ffe65fddbd6499e5faaa5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Surender\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="F:\pulseVolley\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-da86fed13e880a7b3c42b319490c5ab7c5e0060d.jar" />
+    </item>
+    <item
+        jar="F:\pulseVolley\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="F:\pulseVolley\app\build\intermediates\pre-dexed\debug\classes-43ed9ccea2e3c972dc8d205ee5fb79e7dab50f70.jar" />
+    </item>
+
+</items>
